@@ -4,6 +4,11 @@ date: 2023-01-09 14:35:00 +0900
 categories: breadoon
 ---
 
+<a href="https://github.com/breadoon/rest-server">Breadoon REST API의 github으로 이동</a>
+
+<br>
+<br>
+
 
 <article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto">breadoon REST API는 다음과 같은 구조를 가지고 실행한 동작을 정의하게 된다.</p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/120078630/207610644-1bd20495-a9bf-49dd-a83a-9092f13043d1.png"><img src="https://user-images.githubusercontent.com/120078630/207610644-1bd20495-a9bf-49dd-a83a-9092f13043d1.png" width="70%" style="max-width: 100%;"></a></p>
